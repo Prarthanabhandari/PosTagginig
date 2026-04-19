@@ -1,7 +1,7 @@
 # 🧠 POS Tagging System (Python)
 
 ![Python](https://img.shields.io/badge/Python-NLP-blue)
-![NLTK](https://img.shields.io/badge/NLTK-Library-green)
+![NLTK](https://img.shields.io/badge/NLTK-Library-green) 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
